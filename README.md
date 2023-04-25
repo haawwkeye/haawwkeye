@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 <br/>
-<h2 align="center">📈 Activity Graph 📈</h2>
+<!-- <h2 align="center">📈 Activity Graph 📈</h2>
 <a href="">
-<!--      Removed for now (too lazy to deal with)-->
-<!--     <img src="https://activity-graph.herokuapp.com/graph?username=haawwkeye&theme=react-dark&hide_border=true&area=true&hide_title=true" /> -->
-</a>
+<!--      Removed for now (too lazy to deal with)-- >
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=haawwkeye&theme=react-dark&hide_border=true&area=true&hide_title=true" /> -- >
+</a> -->
