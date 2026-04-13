@@ -13,7 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> 💻 GitHub Profile Stats 💻 </h2>
+<!-- markdownlint-disable MD033 MD041 -->
+
+<p align="center">
+    I make things sometimes
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,godot,lua,py,robloxstudio,svelte,ts,unity" alt="C# Godot Lua Python Roblox Svelte TypeScript Unity" />
+  </a>
+</p>
+
+<!--<h2 align="center"> 💻 GitHub Profile Stats 💻 </h2>
 <br/>
 <p align="center">
     <a href="">
@@ -23,7 +35,8 @@ Here are some ideas to get you started:
         <img alt="haawwkeye's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haawwkeye&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" height="164px"/>
     </a>
 </p>
-<br/>
+<br/>-->
+
 <!-- <h2 align="center">📈 Activity Graph 📈</h2>
 <a href="">
 <!--      Removed for now (too lazy to deal with)-- >
